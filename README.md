@@ -6,7 +6,7 @@
 
 <a href="https://haryarrahman.tech"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/haryarrahman.tech-161b22?style=flat-square&logo=googlechrome&logoColor=white"><img alt="Portfolio: haryarrahman.tech" src="https://img.shields.io/badge/haryarrahman.tech-f6f8fa?style=flat-square&logo=googlechrome&logoColor=24292f"></picture></a>
 <a href="https://haryarrahman.tech/cv"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CV-161b22?style=flat-square&logo=readdotcv&logoColor=white"><img alt="CV" src="https://img.shields.io/badge/CV-f6f8fa?style=flat-square&logo=readdotcv&logoColor=24292f"></picture></a>
-<a href="https://www.linkedin.com/in/hary-arrahman"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logoColor=white"><img alt="LinkedIn: hary-arrahman" src="https://img.shields.io/badge/LinkedIn-f6f8fa?style=flat-square"></picture></a>
+<a href="https://www.linkedin.com/in/hary-arrahman"><img alt="LinkedIn: hary-arrahman" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square"></a>
 <a href="mailto:haryarrahman14@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=white"><img alt="Email: haryarrahman14@gmail.com" src="https://img.shields.io/badge/Email-f6f8fa?style=flat-square&logo=gmail&logoColor=24292f"></picture></a>
 
 </td>
