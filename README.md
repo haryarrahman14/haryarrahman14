@@ -16,6 +16,10 @@
 <td width="50%"><a href="https://haryarrahman.tech/experience/maptrack"><img alt="MapTrack's phone app, in development: home, map, tag scanning and a form (test data)" src="assets/native-app.jpg"></a></td>
 </tr>
 <tr>
+<td width="50%"><a href="https://haryarrahman.tech/experience/maptrack"><img alt="MapTrack's Add Asset dialog: reuse an asset, snap it with AI, or start from scratch (test account)" src="assets/maptrack-ai-add-asset.jpg"></a></td>
+<td width="50%"><a href="https://haryarrahman.tech/experience/maptrack"><img alt="MapTrack's Snap It With AI: drop photos, glare is caught first (test account)" src="assets/maptrack-ai-snap.jpg"></a></td>
+</tr>
+<tr>
 <td width="50%"><a href="https://haryarrahman.tech/experience/maptrack"><img alt="BOS, MapTrack's internal CRM: every AI agent's workflow, what it looks for, what waits, what it filed" src="assets/bos-agents.jpg"></a></td>
 <td width="50%"><a href="https://haryarrahman.tech/projects/penawaranku"><img alt="Penawaranku: an AI draft of a cost-estimation (RAB) document" src="assets/penawaranku.jpg"></a></td>
 </tr>
